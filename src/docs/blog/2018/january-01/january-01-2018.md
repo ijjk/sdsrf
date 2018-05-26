@@ -1,0 +1,30 @@
+---
+title: Paying It Forward
+author: Tracy Gay
+date: "2018-01-01T12:00:00.000Z"
+---
+
+<res-img src='0.jpg' alt='Tracy and her daughter' class='mainImg'></res-img>
+
+<p>In early 2016, my husband and I were approached by our dear friends, Drew and Leslie, who asked an essential question: “How can we help?” Our 10-month-old daughter had just been diagnosed with Shwachman Diamond Syndrome (SDS) which is primarily a bone marrow failure disorder often accompanied by pancreatic insufficiency and bone abnormalities.  Several of our friends and family members had kindly expressed that they were there for us and to let them know if we needed anything.  However, Drew and Leslie’s offer was different: it was a call to action. They wanted to do something. They gave us some parameters such as how much they could spend on the cause and then our creative brainstorming began.</p>
+
+<p>From day one of the diagnosis, my husband and I took a special interest in the research going into our daughter’s condition. It will be through research, after all, that a cure will be achieved. From day one, we knew that we wanted to boost the monies raised but we also knew the time, resources, energy, and expenses it would take to raise money for research. Having help with the startup costs relieved some of the hesitancy. After one fun morning at a local gymnastics facility, the thought occurred to us if we could rent out a gym for a couple of hours and encourage our friends and family to join us, what a great way to raise money for a cure! The facility rental fee was within our budget, which would allow our friends and family members to show their support via an at-will donation of $5 per person while having fun in a family-friendly atmosphere. It was one of those moments that when the idea is right, you just know it.</p>
+
+<p>The next step was to set the date. After very careful consideration, my husband and I decided to allow ourselves to be vulnerable and to share one of the most emotionally charged times of our life: our daughter was about to undergo her second bone marrow biopsy and we knew her counts were not good.  With an absolute neutrophil count (ANC)- the type of white blood cells that fight bacterial infections- consistently between 100-200 mcL and the low end of the normal range being 1,500 mcL, we already knew her marrow was struggling. It was a very real possibility that we would be told that our daughter would need a high-risk bone marrow transplant. We decided to host our event a week after her bone marrow biopsy.  The way we saw it, if the results were stable, that’d be reason to celebrate!  If we received the news that we were going to transplant, the event would be a rally of support</p>
+
+<p>So often, friends and family members want to help but feel helpless.  They don’t know how. So the family hears endless comments such as “We’re here if you need anything” and “Is there anything we can do to help?”  I wanted someone to take away my heartache, I wanted people to support my daughter and let her know how special she is, but I didn’t know how to ask for this.  I realized that the issue wasn't a lack of support; our friends and family really wanted to be supportive, and I needed to be more specific in letting them know exactly what we needed.</p>
+
+<res-img src='1.jpg' alt='Tracy and Derek at Stick It To SDS event 2016'></res-img>
+
+<p>By inviting our family and friends to a celebration of completion of our daughter’s second bone marrow biopsy, we gave them a specific way to help: a showing of support for our little girl in the most positive environment while raising money for research. This let our family and friends in on what we were experiencing- waiting on serious medical results and praying and hoping for the best. So often with rare conditions is the feeling that others “Just don’t understand.” But it wasn’t our friends’ nor family members’ faults they didn’t understand- it was our job to help them to understand what we were going through. By sharing the wait for the bone marrow biopsy results, our fears were their fears.  Our wait was their wait. Our questions to the doctor were their questions, too. We were in this together.  Our little girl was loved and was going to be surrounded by all the support we could give her. She loved open gym time and what better way to celebrate the completion of such important results than to be in one of the places she loved the most, surrounded by family and friends? It was perfect.</p>
+
+<p>The success of our first event exceeded our hopes and expectations. The support of our friends and families was incredible but it was the feeling of empowerment that surprised us the most. For the first time since our daughter’s diagnosis, we felt there was hope. Hope for a longer life. Hope for a better outcome. I knew I cannot discover the cure for SDS myself but this event was a little way for us to support and encourage the doctors who could quite literally make a life or death difference for my daughter’s future.</p>
+
+<p>We’ve spent the last year empowered by the funds we have raised specifically for research on SDS. We’ve wanted to share the experience with others in SDS community. The one question that our friends asked us, that call to action, created a ripple effect with an event that will continue for years to come. We want to make this event and other support events like this possible for other SDS families so they, too, may feel empowered and have hope, so that their friends and families will have a way to show their support. So my question for you is: How can we help?</p>
+
+<author src='author.jpg'>
+  <p>Flip Flops or Shoes? Shoes</p>
+  <p>Would you rather get up early or stay up late? Get up early</p>
+  <p>Favorite candy bar: Snickers</p>
+  <p>Favorite Quote: "You can't go back and change the beginning but you can start where you are and change the ending." -C.S. Lewis</p>
+</author>

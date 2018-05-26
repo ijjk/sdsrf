@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-plugin-google-analytics",
+  "description": "Gatsby plugin to add google analytics onto a site",
+  "version": "1.0.31",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "google analytics"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "gatsby": "^1.0.0"
+  },
+  "scripts": {
+    "build": "babel src --out-dir ."
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}

@@ -1,0 +1,12 @@
+*.log
+.cache
+.vscode
+.DS_Store
+/**/*node_modules
+package-lock.json
+
+# Build directory
+/public
+.DS_Store
+
+/plugins/*/*.js
