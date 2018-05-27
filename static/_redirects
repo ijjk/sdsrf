@@ -1,0 +1,4 @@
+# redirect old blog urls to current
+/blog/jan18   /blog/january-01-2018
+/blog/0   /blog/january-01-2018
+/blog/1   /blog/march-01-2018
